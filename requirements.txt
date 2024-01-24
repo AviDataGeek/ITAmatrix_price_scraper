@@ -1,0 +1,4 @@
+playwright
+bs4
+pandas
+openpyxl
